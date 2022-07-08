@@ -1,0 +1,15 @@
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.csproj.AssemblyReference.cache
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.AssemblyInfoInputs.cache
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.AssemblyInfo.cs
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.csproj.CoreCompileInputs.cache
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\bin\Debug\net6.0\demo3 refernceType and valueType.exe
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\bin\Debug\net6.0\demo3 refernceType and valueType.deps.json
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\bin\Debug\net6.0\demo3 refernceType and valueType.runtimeconfig.json
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\bin\Debug\net6.0\demo3 refernceType and valueType.dll
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\bin\Debug\net6.0\demo3 refernceType and valueType.pdb
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.dll
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\refint\demo3 refernceType and valueType.dll
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.pdb
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\demo3 refernceType and valueType.genruntimeconfig.cache
+D:\Reading Materials\C# Demo\demo3 refernceType and valueType\demo3 refernceType and valueType\obj\Debug\net6.0\ref\demo3 refernceType and valueType.dll

@@ -1,0 +1,15 @@
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Excercie 2.exe
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Excercie 2.deps.json
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Excercie 2.runtimeconfig.json
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Excercie 2.dll
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Excercie 2.pdb
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.csproj.AssemblyReference.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.AssemblyInfoInputs.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.AssemblyInfo.cs
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.csproj.CoreCompileInputs.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.dll
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\refint\Excercie 2.dll
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.pdb
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Excercie 2.genruntimeconfig.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\ref\Excercie 2.dll

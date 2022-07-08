@@ -1,0 +1,15 @@
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Conditional Excecises.exe
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Conditional Excecises.deps.json
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Conditional Excecises.runtimeconfig.json
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Conditional Excecises.dll
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\bin\Debug\net6.0\Conditional Excecises.pdb
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.csproj.AssemblyReference.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.AssemblyInfoInputs.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.AssemblyInfo.cs
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.csproj.CoreCompileInputs.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.dll
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\refint\Conditional Excecises.dll
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.pdb
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\Conditional Excecises.genruntimeconfig.cache
+D:\Reading Materials\C# Demo\Excercises\Excercie 2\Excercie 2\obj\Debug\net6.0\ref\Conditional Excecises.dll
