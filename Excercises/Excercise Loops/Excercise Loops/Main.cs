@@ -10,14 +10,14 @@ namespace CSharpExercises
     {
         static void Main(string[] args)
         {
-          Conditionals.Exercise1();
-          Conditionals.Exercise2();
-          Conditionals.Exercise3();
-          Conditionals.Exercise4();
+            Loops.Exercise1();
+            Loops.Exercise2();
+            Loops.Exercise3();
+            Loops.Exercise4();
+            Loops.Exercise5();
 
-        
         }
-            
+
 
     }
 

@@ -4,7 +4,7 @@
 
 using System;
 
-namespace CSharp1Exercises.ControlFlow
+namespace CSharpExercises
 {
     public class Conditionals
     {
