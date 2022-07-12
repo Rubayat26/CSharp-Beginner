@@ -2,7 +2,7 @@
 //Console.WriteLine("Hello, World!");
 using System;
 
-using demo1.Math;
+using demoCalculator;  //this line is for importing calculator class
 
 namespace demo1 
 {
