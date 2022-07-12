@@ -10,16 +10,16 @@ public class Person
 {
     static void Main(string[] args)
     {
-        var number = 1;
-        Increment(number);                                  
-        Console.WriteLine(number);
+        var number = 1;                   //here numebr is a value type variable, 
+        Increment(number);                                     
+        Console.WriteLine(number);        // Here the output would be 1, because value type variable
 
-        var person = new Person
+        var person = new Person           // Here person is refernce type variable 
         {
             Age = 20
         };
         MakeOld(person);    
-        Console.WriteLine(person.Age);
+        Console.WriteLine(person.Age);    // here the output would be 30 
 
     }
 
