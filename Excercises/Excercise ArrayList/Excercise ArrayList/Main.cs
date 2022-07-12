@@ -10,9 +10,12 @@ namespace CSharp1Exercises.ArrayList
     {
         static void Main(string[] args)
         {
+            ListSolution.Exercise1();
             ListSolution.Exercise2();
+            ListSolution.Exercise3();
+            ListSolution.Exercise4();
+            ListSolution.Exercise5();
 
-            
 
         }
 
