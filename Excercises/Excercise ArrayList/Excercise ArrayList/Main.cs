@@ -4,7 +4,7 @@
 
 
 
-namespace CSharp1Exercises.ArrayList
+namespace CSharpExercises.ArrayList
 {
     class TestClass
     {
