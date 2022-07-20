@@ -19,6 +19,26 @@ namespace CSharpExercises
                     count++;
             }
             Console.WriteLine("There are {0} numbers divisible by 3 between 1 and 100.", count);
+
+
+
+
+            // 2nd method using while loop 
+
+            var count1 = 1;
+            var numOfDivdiers = 0;
+
+            while (count1 < 100)
+            {
+                if ((count1 % 3) == 0)
+                {
+                    numOfDivdiers++; 
+                } 
+
+                count1++;
+            }
+
+            Console.WriteLine(numOfDivdiers);
         }
 
         /// <summary>
@@ -36,7 +56,7 @@ namespace CSharpExercises
                 if (input.ToLower() == "ok")
                     break;
 
-                sum += Convert.ToInt32(input);
+                sum += Convert.ToInt32(input);     // here inputs are changed to integer later other "ok" could not be taken
             }
             Console.WriteLine("Sum of all numbers is: " + sum);
         }
@@ -52,8 +72,19 @@ namespace CSharpExercises
             var number = Convert.ToInt32(Console.ReadLine());
 
             var factorial = 1;
+            /*
             for (var i = 1; i <= number; i++)
+            //    factorial *= i;
+
+            Console.WriteLine("{0}! = {1}", number, factorial);
+
+            */
+
+
+            for (var i=number; i>=1; i--)
+            {
                 factorial *= i;
+            }
 
             Console.WriteLine("{0}! = {1}", number, factorial);
         }
@@ -92,7 +123,7 @@ namespace CSharpExercises
             Console.Write("Enter commoa separated numbers: ");
             var input = Console.ReadLine();
 
-            var numbers = input.Split(',');
+            var numbers = input.Split(',');     // by split(',') we are creating an array of numbers
 
             // Assume the first number is the max 
             var max = Convert.ToInt32(numbers[0]);

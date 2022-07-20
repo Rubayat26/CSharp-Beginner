@@ -15,7 +15,7 @@ namespace CSharpExercises.Strings
             StringsSolution.Exercise4();
             StringsSolution.Exercise5();
            
-
+            
 
         }
 

@@ -45,7 +45,7 @@ namespace CSharpExercises.Strings
         /// </summary>
         public static void Exercise2()
         {
-            Console.Write("Enter a few numbers (eg 1-2-3-4): ");
+          Console.Write("Enter a few numbers (eg 1-2-3-4): ");
             var input = Console.ReadLine();
 
             if (String.IsNullOrWhiteSpace(input))
