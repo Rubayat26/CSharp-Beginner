@@ -42,11 +42,27 @@ namespace CSharpExercises.ArrayList
             Console.Write("What's your name? ");
             var name = Console.ReadLine();
 
-            var array = new char[name.Length];
+            var array = new char[name.Length];   // creating a blank array with 0's 
+           
+            /*  1st Method 
+             
+
             for (var i = name.Length; i > 0; i--)
-                array[name.Length - i] = name[i - 1];
+            array[name.Length - i] = name[i - 1];
 
             var reversed = new string(array);
+           
+             
+             */
+
+
+            for (var i=0; i < name.Length; i++)
+            {
+                array[i] = name[name.Length - i- 1];
+            }
+
+            var reversed = new string(array);
+
             Console.WriteLine("Reversed name: " + reversed);
         }
 
@@ -66,7 +82,7 @@ namespace CSharpExercises.ArrayList
                 if (numbers.Contains(number))
                 {
                     Console.WriteLine("You've previously entered " + number);
-                    continue;
+                    continue;                        // continue statement breaks one iteration in the loop and returns to the while loop again 
                 }
 
                 numbers.Add(number);
@@ -100,8 +116,19 @@ namespace CSharpExercises.ArrayList
             var uniques = new List<int>();
             foreach (var number in numbers)
             {
+                /*  1st method
+                
                 if (!uniques.Contains(number))
                     uniques.Add(number);
+
+                */
+
+                // 2nd method
+                if (uniques.Contains(number))
+                {
+                    continue;
+                }
+                uniques.Add(number);
             }
 
             Console.WriteLine("Unique numbers:");
@@ -118,8 +145,8 @@ namespace CSharpExercises.ArrayList
         /// </summary>
         public static void Exercise5()
         {
-            string[] elements;
-            while (true)
+            string[] elements;     // it has to be declared to outside the while loop because it is a global array of strings
+            while (true)           // also its need to be delcared as string beacuase of the use of splitting method 
             {
                 Console.Write("Enter a list of comma-separated numbers: ");
                 var input = Console.ReadLine();
@@ -128,7 +155,8 @@ namespace CSharpExercises.ArrayList
                 {
                     elements = input.Split(',');
                     if (elements.Length >= 5)
-                        break;
+                        break;                 // the loop will only break if the elements length is greater than 5 
+                                               // othereis ethe while loop will keep on going 
                 }
 
                 Console.WriteLine("Invalid List");
