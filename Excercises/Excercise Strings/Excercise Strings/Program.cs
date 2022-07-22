@@ -18,11 +18,13 @@ namespace CSharpExercises.Strings
             Console.Write("Enter a few numbers (eg 1-2-3-4): ");
             var input = Console.ReadLine();
 
-            var numbers = new List<int>();
+            var numbers = new List<int>(); 
             foreach (var number in input.Split('-'))
                 numbers.Add(Convert.ToInt32(number));
 
-            numbers.Sort();
+            numbers.Sort();    // this line will take care of the descending order if there is any
+                               // here the idea is if the list of numbers have consecutive numbers or not
+                               // if they consecutivbe numbers are not sitting next to each other while enetering
 
             var isConsecutive = true;
             for (var i = 1; i < numbers.Count; i++)
@@ -49,10 +51,11 @@ namespace CSharpExercises.Strings
             var input = Console.ReadLine();
 
             if (String.IsNullOrWhiteSpace(input))
-                return;
+                return;                     // here return is used to exit out of the program,
+                                            // the program will return nothing and exit 
 
             var numbers = new List<int>();
-            foreach (var number in input.Split('-'))
+            foreach (var number in input.Split('-'))       // here number is string 
                 numbers.Add(Convert.ToInt32(number));
 
             var uniques = new List<int>();
@@ -105,7 +108,7 @@ namespace CSharpExercises.Strings
                 else
                     Console.WriteLine("Invalid Time");
             }
-            catch (Exception)
+            catch (Exception)                        // any kind of exception will result in an invalid time 
             {
                 Console.WriteLine("Invalid Time");
             }
@@ -131,8 +134,9 @@ namespace CSharpExercises.Strings
 
             var variableName = "";
             foreach (var word in input.Split(' '))
-            {
-                var wordWithPascalCase = char.ToUpper(word[0]) + word.ToLower().Substring(1);
+            {   
+                //var str = word[0];
+                var wordWithPascalCase = word.ToUpper().Substring(0,1) + word.ToLower().Substring(1);
                 variableName += wordWithPascalCase;
             }
 
@@ -152,7 +156,8 @@ namespace CSharpExercises.Strings
             // Note the ToLower() here. This is used to count for both A and a. 
             var input = Console.ReadLine().ToLower();
 
-            var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
+            // var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
+            var vowels = new char[] { 'a', 'e', 'i', 'o', 'u' };
             var vowelsCount = 0;
             foreach (var character in input)
             {

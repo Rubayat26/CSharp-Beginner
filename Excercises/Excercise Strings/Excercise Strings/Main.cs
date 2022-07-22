@@ -9,14 +9,14 @@ namespace CSharpExercises.Strings
     {
         static void Main(string[] args)
         {
-            StringsSolution.Exercise1();
-            StringsSolution.Exercise2();
-            StringsSolution.Exercise3();
-            StringsSolution.Exercise4();
-            StringsSolution.Exercise5();
+           StringsSolution.Exercise1();
+           StringsSolution.Exercise2();
+           StringsSolution.Exercise3();
+           StringsSolution.Exercise4();
+           StringsSolution.Exercise5();
            
             
-
+            
         }
 
 
